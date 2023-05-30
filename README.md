@@ -1,0 +1,1 @@
+This "To Do List" project helped pull together a lot of concepts in React. I was tasked with creating a classic to do list where items could be input and added with a button. Then, they could be crossed off and ultimately deleted.
